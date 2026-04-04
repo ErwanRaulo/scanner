@@ -1,5 +1,11 @@
 # @nodesecure/tarball
 
+## 4.0.2
+
+### Patch Changes
+
+- [#708](https://github.com/NodeSecure/scanner/pull/708) [`398bf42`](https://github.com/NodeSecure/scanner/commit/398bf42b15b8e217fc6725377ea6903687b124d1) Thanks [@fraxken](https://github.com/fraxken)! - Add missing extract result interface in NpmTarball class
+
 ## 4.0.1
 
 ### Patch Changes
